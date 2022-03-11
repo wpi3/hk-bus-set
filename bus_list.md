@@ -80,7 +80,7 @@
 - **Tilling-Stevens “Express”**
 - Thornycroft_Cygnet
 
-# Stupid Chinese busses:
+# Stupid Chinese buses:
 
 ### Young Man
 - JNP6122G
