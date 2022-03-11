@@ -7,9 +7,8 @@
 - **Dennis Dragon/Condor**
 - Dennis Falcon
 - Dennis Lance
-- **Dennis Dart**
-- Dennis Dart with Plaxton Pointer
-- **Dennis Trident**
+- **Dennis Dart with Plaxton Pointer**
+- **Dennis Trident with ALX500**
 - Dennis Trident with Duple Metsec DM5000
 - **Enviro 500**
 - Enviro 200
