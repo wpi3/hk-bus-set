@@ -1,4 +1,4 @@
-# Dennis / Alexander Dennis
+### Dennis / Alexander Dennis
 
 - Dennis Pax
 - Dennis Loline III
@@ -19,7 +19,7 @@
 - Enviro 500 MMC Hybrid
 - **Enviro 200 MMC**
 
-# Daimler / Albion / Leyland
+### Daimler / Albion / Leyland
 - Daimler CVG5
 - Daimler CVG6LW
 - Daimler CVG6LX
@@ -36,7 +36,7 @@
 - **Leyland Victory Mark II (HK only)**
 - **Leyland Olympian**
 
-# Volvo
+### Volvo
 - Volvo Alisa B55
 - Volvo B10
 - Volvo B10M
@@ -51,7 +51,7 @@
 - Volvo B8L
 - Volvo B9TL
 
-# MAN / Neoplan
+### MAN / Neoplan
 - Neoman A34
 - **Neoplan Centroliner**
 - NL262
@@ -59,14 +59,14 @@
 - MAN 24.310
 - MAN A95
 
-# Scania
+### Scania
 - K230UB
 - K280UD
 - K310UD
 - K94UB
 - N113
  
-# Miscellaneous
+### Miscellaneous
 - MCW Metrobus
 - **AEC Regent V**
 - AEC Routemaster
@@ -80,18 +80,18 @@
 - **Tilling-Stevens “Express”**
 - Thornycroft_Cygnet
 
-Stupid Chinese busses:
+# Stupid Chinese busses:
 
-# Young Man
+### Young Man
 - JNP6122G
 - JNP6105GR
 - JNP6120GR
 - JNP6122UC
 
-# BYD
+### BYD
 - K9A
 - K9R
 - K12A
 
-# Weisheit
+### Weisheit
 - WSD6121BR1EV
