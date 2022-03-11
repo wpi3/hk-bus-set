@@ -4,7 +4,7 @@
 - Dennis Loline III
 - **Dennis Jubilant (HK only)**
 - Dennis Dominator
-- **Dennis Dragon/Condor**
+- **Dennis Dragon/Condor (HK only)**
 - Dennis Falcon
 - Dennis Lance
 - **Dennis Dart with Plaxton Pointer**
